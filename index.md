@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hello this is **Efain Ignacio**
+Hello this is **Efrain Ignacio**
 
 [Link to another page](./another-page.html).
 
