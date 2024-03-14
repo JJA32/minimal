@@ -32,7 +32,9 @@ Minimal will respect the following variables, if set in your site's `_config.yml
 
 ```yml
 title: [The title of your site]
+[Hobbies]`_config.yml`
 description: [A short description of your site's purpose]
+[What i enjoy doing]`_config.yml`
 ```
 
 Additionally, you may choose to set the following optional variables:
