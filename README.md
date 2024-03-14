@@ -31,9 +31,9 @@ To use the Minimal theme:
 Minimal will respect the following variables, if set in your site's `_config.yml`:
 
 ```yml
-title: [The title of your site]
+title: [hobbies]
 [Hobbies]`_config.yml`
-description: [A short description of your site's purpose]
+description: [Whtat i enjoy Doing]
 [What i enjoy doing]`_config.yml`
 ```
 
