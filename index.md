@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Hello this is **Efain Ignacio**
 
 [Link to another page](./another-page.html).
 
